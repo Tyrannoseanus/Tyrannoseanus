@@ -23,7 +23,7 @@ data class Tyrannoseanus(
 
 ### Totally Important Stats
 
-![Tyrannoseanus GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrannoseanus&show_icons=true&title_color=FB8C00&icon_color=FB8C00) ![Tyrannoseanus Streak Stats](https://streak-stats.demolab.com/?user=Tyrannoseanus&mode=weekly)
+![Tyrannoseanus GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrannoseanus&card_width=400&show_icons=true&title_color=FB8C00&icon_color=FB8C00) ![Tyrannoseanus Streak Stats](https://streak-stats.demolab.com/?user=Tyrannoseanus&card_width=400&mode=weekly)
 
 ### Even More Important Certifications
 

@@ -23,8 +23,27 @@ data class Tyrannoseanus(
 
 ### 📊 Totally Important Stats
 
-![Tyrannoseanus GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrannoseanus&card_width=400&show_icons=true&hide=stars&show=prs_merged_percentage&title_color=FB8C00&icon_color=FB8C00#gh-light-mode-only)![Tyrannoseanus Streak Stats](https://streak-stats.demolab.com/?user=Tyrannoseanus&card_width=400&mode=weekly#gh-light-mode-only)
-![Tyrannoseanus GitHub Stats](https://github-readme-stats.vercel.app/api?username=tyrannoseanus&card_width=400&show_icons=true&hide=stars&show=prs_merged_percentage&title_color=FB8C00&icon_color=FB8C00#gh-dark-mode-only)![Tyrannoseanus Streak Stats](https://streak-stats.demolab.com/?user=Tyrannoseanus&card_width=400&mode=weekly#gh-dark-mode-only)
+<picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=tyrannoseanus&card_width=400&show_icons=true&hide=stars&show=prs_merged_percentage&title_color=FB8C00&icon_color=FB8C00"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=Tyrannoseanus&card_width=400&mode=weekly"
+      media="(prefers-color-scheme: dark)"
+    />
+</picture>
+
+<picture>
+    <source
+      srcset="https://streak-stats.demolab.com/?user=Tyrannoseanus&card_width=400&mode=weekly"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com/?user=Tyrannoseanus&card_width=400&mode=weekly"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+</picture>
 
 ### 🥇 Even More Important Certifications
 
